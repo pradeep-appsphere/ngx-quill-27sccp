@@ -43,7 +43,7 @@ export class AppComponent  {
 
         ['link'],
         //['link', 'image', 'video']  
-        ['emoji'], 
+        // ['emoji'], 
       ],
       handlers: {'emoji': function() {}}
     },
